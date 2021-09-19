@@ -1,0 +1,7 @@
+{
+  "name": "try-terraform",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Sota Suzuki <hurin@tatikaze.com>",
+  "license": "MIT"
+}

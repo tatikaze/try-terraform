@@ -1,0 +1,9 @@
+# terraform binaries
+**/.terraform/*
+
+# .tfstate
+*.tfstate
+*.tfstate.*
+
+# environments
+*.tfvars
