@@ -3,7 +3,12 @@ variable "rds_root_user" {
 	default = "root"
 }
 
-variable "rdb_root_pass" {
+variable "rds_root_pass" {
 	description = "database root password"
-	default = "rootpassword1"
+	default = ""
+}
+
+variable "ssh_public_key" {
+	description = "public ssh key"
+	default = ""
 }

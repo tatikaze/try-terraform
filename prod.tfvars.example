@@ -1,2 +1,3 @@
-rds_root_user = ""
-rds_root_pass = ""
+rds_root_user=""
+rds_root_pass=""
+ssh_public_key=""
